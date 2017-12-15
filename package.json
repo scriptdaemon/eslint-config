@@ -13,18 +13,21 @@
   "main": ".eslintrc.js",
   "repository": "scriptdaemon/eslint-config",
   "scripts": {
-    "test": "eslint --ignore-pattern !.eslintrc.js ."
+    "lint": "eslint --ignore-pattern !.eslintrc.js .",
+    "test": "npm run lint && jest"
   },
   "dependencies": {
     "eslint-config-standard": "^10.2.1",
     "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jest": "^21.4.3",
     "eslint-plugin-node": "^5.2.1",
     "eslint-plugin-promise": "^3.6.0",
     "eslint-plugin-standard": "^3.0.1",
     "eslint-plugin-vue": "^4.0.0-beta.2"
   },
   "devDependencies": {
-    "eslint": "^4.12.1"
+    "eslint": "^4.12.1",
+    "jest": "^21.2.1"
   },
   "peerDependencies": {
     "eslint": "^4.12.1"
