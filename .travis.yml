@@ -1,9 +1,8 @@
 language: node_js
 node_js:
   - "9" # Current
-  - "8" # LTS (Active)
-  - "6" # LTS (Active)
-  - "4" # LTS (Maintenance)
+  - "8" # LTS
+  - "6" # LTS
 
 os:
   - linux
