@@ -9,6 +9,7 @@
   "homepage": "https://github.com/scriptdaemon/eslint-config#readme",
   "bugs": "https://github.com/scriptdaemon/eslint-config/issues",
   "license": "ISC",
+  "files": [],
   "author": "Kenneth Williams",
   "main": ".eslintrc.js",
   "repository": "scriptdaemon/eslint-config",
