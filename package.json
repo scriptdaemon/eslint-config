@@ -10,7 +10,7 @@
   "bugs": "https://github.com/scriptdaemon/eslint-config/issues",
   "license": "ISC",
   "files": [],
-  "author": "Kenneth Williams",
+  "author": "Kenneth Williams <scriptdaemon@gmail.com>",
   "main": ".eslintrc.js",
   "repository": "scriptdaemon/eslint-config",
   "scripts": {
