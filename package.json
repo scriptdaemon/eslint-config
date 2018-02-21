@@ -27,11 +27,11 @@
     "eslint-plugin-vue": "^4.0.1"
   },
   "devDependencies": {
-    "eslint": "^4.12.1",
+    "eslint": "^4.18.1",
     "jest": "^22.0.3"
   },
   "peerDependencies": {
-    "eslint": "^4.12.1"
+    "eslint": "^4.18.1"
   },
   "engines": {
     "node": ">=6.9.0",
