@@ -27,7 +27,7 @@
     "eslint-plugin-vue": "^4.3.0"
   },
   "devDependencies": {
-    "eslint": "^5.5.0",
+    "eslint": "^6.5.1",
     "jest": "^23.5.0"
   },
   "engines": {
